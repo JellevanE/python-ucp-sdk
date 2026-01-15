@@ -1,0 +1,2458 @@
+[
+  {
+    "@type": "Product",
+    "productID": "963475",
+    "name": "Samsung 65\" Neo QLED QN73F 4K (2025)",
+    "sku": "963475",
+    "image": [
+      "http://localhost:10999/images/tv_963475.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "899",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/963475/samsung-65-neo-qled-qn73f-4k-2025.html",
+    "description": "Met de Samsung 65\" Neo QLED QN73F 4K (2025) kijk je naar levensechte beelden met felle kleuren. Deze televisie gebruikt Neo QLED technologie, die de hoge helderheid en het brede kleurbereik van QLED combineert met het krachtige contrast van mini-led local dimming. Hierdoor geniet je van beelden d...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "65 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid voor gaming",
+        "value": "144 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "3 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "Mini-led"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Type local dimming",
+        "value": "Edge lit"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "E"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "963454",
+    "name": "Samsung 55\" QD-OLED S95F 4K (2025)",
+    "sku": "963454",
+    "image": [
+      "http://localhost:10999/images/tv_963454.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "1999",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/963454/samsung-55-qd-oled-s95f-4k-2025.html",
+    "description": "Met de Samsung 55\" OLED S95F 4K geniet je van heldere kleuren en diepe zwartwaarden. Deze televisie gebruikt een QD-OLED scherm, waardoor je krachtige contrasten en felle kleuren ziet. De quantum dots filteren het licht van de OLED pixels en tonen alleen de juiste kleuren. Je kijkt overdag zonder...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "55 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid voor gaming",
+        "value": "165 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "2,5 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "OLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "G"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "966564",
+    "name": "Samsung 77\" OLED S85F 4K (2025) + Samsung HW-QS700F (2025)",
+    "sku": "966564",
+    "image": [
+      "http://localhost:10999/images/tv_966564.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "2159",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/966564/samsung-77-oled-s85f-4k-2025-samsung-hw-qs700f-2025.html",
+    "description": "Geniet van een realistisch OLED scherm en Dolby Atmos geluid met de Samsung 77\" OLED S85F 4K (2025) + Samsung HW-QS700F (2025) bundel.\r\n\r\nTelevisie\r\nMet de Samsung 77\" OLED S85F 4K (2025) kijk je naar realistische, contrastrijke beelden. Deze tv heeft een OLED scherm. De pixels van het beeld verl...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "77 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Zeer goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "3,5 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "OLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "F"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "966562",
+    "name": "Samsung 55\" OLED S95F 4K (2025) + Samsung HW-Q930F (2025)",
+    "sku": "966562",
+    "image": [
+      "http://localhost:10999/images/tv_966562.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "2629",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/966562/samsung-55-oled-s95f-4k-2025-samsung-hw-q930f-2025.html",
+    "description": "Geniet van een realistisch OLED scherm en ruimtelijk surround geluid met de Samsung 55\" OLED S95F 4K (2025) + Samsung HW-Q930F (2025) bundel.\r\n\r\nTelevisie\r\nGeniet van de diepste zwartwaarden en een scherm zonder reflecties met de Samsung 55\" OLED S95F 4K (2025). De pixels van deze OLED tv verlich...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "55 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid voor gaming",
+        "value": "165 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "2,5 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "OLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "G"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "963453",
+    "name": "Samsung 65\" QD-OLED S95F 4K (2025)",
+    "sku": "963453",
+    "image": [
+      "http://localhost:10999/images/tv_963453.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "2699",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/963453/samsung-65-qd-oled-s95f-4k-2025.html",
+    "description": "Met de Samsung 65\" OLED S95F 4K (2025) geniet je van levendige kleuren en diepe zwartwaarden. Deze televisie gebruikt QD-OLED techniek, waardoor het scherm zelf verlichtende pixels en quantum dots combineert. Hierdoor zie je krachtig contrast en extra felle kleuren. Het matte scherm met Glare Fre...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "65 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid voor gaming",
+        "value": "165 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "3 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "OLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "F"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "966565",
+    "name": "Samsung 65\" OLED S85F 4K (2025) + Samsung HW-QS700F (2025)",
+    "sku": "966565",
+    "image": [
+      "http://localhost:10999/images/tv_966565.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "1429",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/966565/samsung-65-oled-s85f-4k-2025-samsung-hw-qs700f-2025.html",
+    "description": "Geniet van een realistisch OLED scherm en Dolby Atmos geluid met de Samsung 65\" OLED S85F 4K (2025) + Samsung HW-QS700F (2025) bundel.\r\n\r\nTelevisie\r\nMet de Samsung 65\" OLED S85F 4K (2025) kijk je naar realistische, contrastrijke beelden. Deze tv heeft een OLED scherm. De pixels van het beeld verl...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "65 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Zeer goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "3,5 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "OLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "F"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "963463",
+    "name": "Samsung 65\" Neo QLED QN90F 4K (2025)",
+    "sku": "963463",
+    "image": [
+      "http://localhost:10999/images/tv_963463.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "1849",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/963463/samsung-65-neo-qled-qn90f-4k-2025.html",
+    "description": "Met de Samsung 65\" Neo QLED QN90F 4K (2025) geniet je van levensechte beelden met felle kleuren. Deze televisie gebruikt Neo QLED techniek, waardoor je profiteert van hoge helderheid en krachtig contrast door mini-led local dimming. Het matte scherm met anti-reflectielaag voorkomt storende reflec...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "65 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid voor gaming",
+        "value": "165 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "3 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "Mini-led"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Type local dimming",
+        "value": "Full array"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "F"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "963456",
+    "name": "Samsung 77\" OLED S85F 4K (2025)",
+    "sku": "963456",
+    "image": [
+      "http://localhost:10999/images/tv_963456.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "2169",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/963456/samsung-77-oled-s85f-4k-2025.html",
+    "description": "Met de Samsung 77\" OLED S85F 4K (2025) kijk je naar scherpe beelden vol details. Deze televisie heeft een 4K resolutie, wat betekent dat het scherm meer dan 8 miljoen pixels toont. Dit is 4 keer scherper dan full hd, waardoor je elk detail ziet. Dit maakt de tv geschikt voor films, series en game...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "77 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Zeer goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "3,5 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "OLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "F"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "963465",
+    "name": "Samsung 50\" Neo QLED QN90F 4K (2025)",
+    "sku": "963465",
+    "image": [
+      "http://localhost:10999/images/tv_963465.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "1299",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/963465/samsung-50-neo-qled-qn90f-4k-2025.html",
+    "description": "Met de Samsung 50\" Neo QLED QN90F 4K (2025) geniet je van levensechte beelden met felle kleuren. Deze televisie gebruikt Neo QLED techniek, waardoor je profiteert van hoge helderheid en krachtig contrast. Het matte scherm voorkomt storende reflecties, zodat je altijd goed zicht hebt. De slimme pr...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "50 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid voor gaming",
+        "value": "165 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "2,5 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "Mini-led"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Type local dimming",
+        "value": "Full array"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "F"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "966561",
+    "name": "Samsung 55\" OLED S95F 4K (2025) + Samsung HW-QS700F (2025)",
+    "sku": "966561",
+    "image": [
+      "http://localhost:10999/images/tv_966561.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "1969",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/966561/samsung-55-oled-s95f-4k-2025-samsung-hw-qs700f-2025.html",
+    "description": "Geniet van een realistisch OLED scherm en True Dolby Atmos geluid met de Samsung 55\" OLED S95F 4K (2025) + Samsung HW-QS700F (2025) bundel.\r\n\r\nTelevisie\r\nGeniet van de diepste zwartwaarden en een scherm zonder reflecties met de Samsung 55\" OLED S95F 4K (2025). De pixels van deze OLED tv verlichte...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "55 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid voor gaming",
+        "value": "165 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "2,5 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "OLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "G"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "970956",
+    "name": "Samsung 55\" OLED 4K S85F (2025) + Samsung HW-Q600F Zwart",
+    "sku": "970956",
+    "image": [
+      "http://localhost:10999/images/tv_970956.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "1279",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/970956/samsung-55-oled-4k-s85f-2025-samsung-hw-q600f-zwart.html",
+    "description": "Haal een complete thuisbioscoop in huis met de Samsung 55\" OLED 4K S85F (2025) + Samsung HW-Q600F Zwart tv en soundbar bundel.\r\n\r\nTelevisie\r\nMet de Samsung 55\" OLED S85F 4K (2025) kijk je naar scherpe en vloeiende beelden. Het OLED scherm laat elke pixel zijn eigen kleur en licht zien. Hierdoor z...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "55 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Zeer goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "3 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "OLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "G"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "966558",
+    "name": "Samsung 65\" OLED S95F 4K (2025) + Samsung HW-QS700F (2025)",
+    "sku": "966558",
+    "image": [
+      "http://localhost:10999/images/tv_966558.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "2669",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/966558/samsung-65-oled-s95f-4k-2025-samsung-hw-qs700f-2025.html",
+    "description": "Geniet van een realistisch OLED scherm en True Dolby Atmos geluid met de Samsung 65\" OLED S95F 4K (2025) + Samsung HW-QS700F (2025) bundel.\r\n\r\nTelevisie\r\nGeniet van de diepste zwartwaarden en een scherm zonder reflecties met de Samsung 65\" OLED S95F 4K (2025). De pixels van deze OLED tv verlichte...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "65 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid voor gaming",
+        "value": "165 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "3 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "OLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "F"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "963467",
+    "name": "Samsung 43\" Neo QLED QN90F 4K (2025)",
+    "sku": "963467",
+    "image": [
+      "http://localhost:10999/images/tv_963467.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "1199",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/963467/samsung-43-neo-qled-qn90f-4k-2025.html",
+    "description": "Met de Samsung 43\" Neo QLED QN90F 4K (2025) geniet je van levensechte beelden met felle kleuren. Deze televisie gebruikt Neo QLED techniek, waardoor je profiteert van hoge helderheid en krachtig contrast. Het matte scherm voorkomt storende reflecties, zodat je altijd goed zicht hebt. De slimme pr...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "43 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid voor gaming",
+        "value": "165 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "2 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "Mini-led"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Type local dimming",
+        "value": "Full array"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "F"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "963464",
+    "name": "Samsung 55\" Neo QLED QN90F 4K (2025)",
+    "sku": "963464",
+    "image": [
+      "http://localhost:10999/images/tv_963464.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "1399",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/963464/samsung-55-neo-qled-qn90f-4k-2025.html",
+    "description": "Met de Samsung 55\" Neo QLED QN90F 4K (2025) geniet je van levensechte beelden met felle kleuren. Deze televisie gebruikt Neo QLED technologie. Hierdoor krijg je hoge helderheid, een breed kleurbereik en krachtig contrast door mini-led local dimming. Het matte scherm voorkomt storende reflecties, ...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "55 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid voor gaming",
+        "value": "165 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "2,5 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "Mini-led"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Type local dimming",
+        "value": "Full array"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "F"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "963483",
+    "name": "Samsung 43\" QLED Q7F4 4K (2025)",
+    "sku": "963483",
+    "image": [
+      "http://localhost:10999/images/tv_963483.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "529",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/963483/samsung-43-qled-q7f4-4k-2025.html",
+    "description": "Met de Samsung 43\" QLED Q7F4 4K (2025) kijk je naar kleurrijke en scherpe beelden, zelfs in een verlichte kamer. Het QLED scherm gebruikt quantum dots die zorgen voor een extra groot kleurbereik. De hoge helderheid laat felle kleurtinten zien, ook als de zon op je scherm schijnt. Dankzij de 4K re...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "43 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "50 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "2 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "QLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "G"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "963458",
+    "name": "Samsung 65\" OLED S85F 4K (2025)",
+    "sku": "963458",
+    "image": [
+      "http://localhost:10999/images/tv_963458.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "1449",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/963458/samsung-65-oled-s85f-4k-2025.html",
+    "description": "Met de Samsung 65\" OLED S85F 4K (2025) kijk je naar levensechte kleuren en scherpe beelden. Het OLED scherm laat elke pixel zijn eigen kleur en licht zien. Hierdoor zijn zwarte beelden écht zwart en blijven kleurdetails zichtbaar in zowel donkere als heldere delen van het beeld. De 4K resolutie z...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "65 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Zeer goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "3 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "OLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "F"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "963452",
+    "name": "Samsung 77\" QD-OLED S95F 4K (2025)",
+    "sku": "963452",
+    "image": [
+      "http://localhost:10999/images/tv_963452.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "3799",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/963452/samsung-77-qd-oled-s95f-4k-2025.html",
+    "description": "Met de Samsung 77\" OLED S95F 4K (2025) geniet je van diepe zwartwaarden en felle kleuren. Deze televisie gebruikt een QD-OLED scherm, waardoor je krachtige contrasten en levendige beelden ziet. Het OLED scherm gebruikt zelf verlichtende pixels voor diepe zwarttinten. De QLED techniek zorgt voor e...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "77 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid voor gaming",
+        "value": "165 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "3,5 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "OLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "F"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "963481",
+    "name": "Samsung 55\" QLED Q7F4 4K (2025)",
+    "sku": "963481",
+    "image": [
+      "http://localhost:10999/images/tv_963481.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "599",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/963481/samsung-55-qled-q7f4-4k-2025.html",
+    "description": "Met de Samsung 55\" QLED Q7F4 4K (2025) geniet je van heldere en kleurrijke beelden. Deze televisie gebruikt quantum dots voor een extra groot kleurbereik en hoge helderheid. Hierdoor zie je felle kleurtinten, zelfs in een verlichte kamer. De Q4 AI Processor verbetert automatisch de beeld- en gelu...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "55 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "50 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "2,5 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "QLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "G"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "963459",
+    "name": "Samsung 55\" OLED S85F 4K (2025)",
+    "sku": "963459",
+    "image": [
+      "http://localhost:10999/images/tv_963459.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "1099",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/963459/samsung-55-oled-s85f-4k-2025.html",
+    "description": "Met de Samsung 55\" OLED S85F 4K (2025) kijk je naar scherpe en vloeiende beelden. Het OLED scherm laat elke pixel zijn eigen kleur en licht zien. Hierdoor zijn kleuren levensecht en zwarte beelden écht zwart. Zelfs in hele donkere of heldere delen van het beeld blijven kleurdetails goed zichtbaar...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "55 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Zeer goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "2,5 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "OLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "G"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "966799",
+    "name": "Samsung 50\" Neo QLED QN90F 4K (2025) + Samsung HW-QS700F (2025)",
+    "sku": "966799",
+    "image": [
+      "http://localhost:10999/images/tv_966799.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "1569",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/966799/samsung-50-neo-qled-qn90f-4k-2025-samsung-hw-qs700f-2025.html",
+    "description": "Je geniet van een helder mini-led beeld en ruimtelijk Dolby Atmos geluid met de Samsung 50\" Neo QLED QN90F 4K (2025) + Samsung HW-QS700F (2025) bundel.\r\n\r\nTelevisie\r\nKijk naar een helder scherm zonder reflecties met de Samsung 50\" Neo QLED QN90F 4K (2025). Deze 50 inch tv gebruikt mini-led local ...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "50 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid voor gaming",
+        "value": "165 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "2,5 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "Mini-led"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Type local dimming",
+        "value": "Full array"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "F"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "963474",
+    "name": "Samsung 75\" Neo QLED QN73F 4K (2025)",
+    "sku": "963474",
+    "image": [
+      "http://localhost:10999/images/tv_963474.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "1249",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/963474/samsung-75-neo-qled-qn73f-4k-2025.html",
+    "description": "Met de Samsung 75\" Neo QLED QN73F 4K (2025) geniet je van levensechte beelden met felle kleuren. Deze televisie gebruikt Neo QLED techniek, waardoor je profiteert van hoge helderheid en krachtig contrast door mini-led local dimming. Je kijkt naar haarscherpe beelden dankzij de 4K resolutie. Hierd...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "75 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid voor gaming",
+        "value": "144 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "3 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "Mini-led"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Type local dimming",
+        "value": "Edge lit"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "D"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "968573",
+    "name": "Samsung 55\" The Frame LS03FA (2025) + Samsung HW-S800D Zwart (2024)",
+    "sku": "968573",
+    "image": [
+      "http://localhost:10999/images/tv_968573.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "1359",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/968573/samsung-55-the-frame-ls03fa-2025-samsung-hw-s800d-zwart-2024.html",
+    "description": "Kies voor een stijlvolle tv en soundbar met de Samsung 55\" The Frame LS03FA (2025) + Samsung HW-S800D Zwart (2024) bundel.\r\n\r\nTelevisie\r\nGeniet van een stijlvolle tv die naadloos opgaat in je interieur met de Samsung 55\" The Frame LS03FA 4K (2025). Door het dunne ontwerp, het matte scherm en de m...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "55 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid voor gaming",
+        "value": "144 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "2,5 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "QLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Type local dimming",
+        "value": "Edge lit"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Standaard"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Input lag",
+        "value": "9,8 ms"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "G"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "963482",
+    "name": "Samsung 50\" QLED Q7F4 4K (2025)",
+    "sku": "963482",
+    "image": [
+      "http://localhost:10999/images/tv_963482.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "569",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/963482/samsung-50-qled-q7f4-4k-2025.html",
+    "description": "Met de Samsung 50\" QLED Q7F4 4K (2025) geniet je van heldere en kleurrijke beelden, zelfs bij veel licht. Deze televisie gebruikt een QLED scherm met quantum dots, waardoor je een extra groot kleurbereik ziet. De hoge helderheid zorgt ervoor dat felle kleuren goed zichtbaar blijven. De Q4 AI Proc...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "50 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "50 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "2,5 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "QLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "QLED",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "G"
+      }
+    ]
+  },
+  {
+    "@type": "Product",
+    "productID": "970953",
+    "name": "Samsung 65\" OLED 4K S85F (2025) + Samsung HW-Q930F Zwart",
+    "sku": "970953",
+    "image": [
+      "http://localhost:10999/images/tv_970953.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "Samsung"
+    },
+    "offers": {
+      "price": "2119",
+      "priceCurrency": "EUR",
+      "priceSpecification": null,
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": null,
+    "url": "https://www.coolblue.nl/product/970953/samsung-65-oled-4k-s85f-2025-samsung-hw-q930f-zwart.html",
+    "description": "Haal een complete thuisbioscoop in huis met de Samsung 65\" OLED 4K S85F (2025) + Samsung HW-Q930F tv en soundbar bundel.\r\n\r\nTelevisie\r\nMet de Samsung 65\" OLED S85F 4K (2025) kijk je naar scherpe en vloeiende beelden. Het OLED scherm laat elke pixel zijn eigen kleur en licht zien. Hierdoor zijn kl...",
+    "gtin": null,
+    "mpn": null,
+    "category": "Electronics > Televisions",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Schermdiagonaal",
+        "value": "65 inch"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Beeldkwaliteit",
+        "value": "Zeer goed"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verversingssnelheid",
+        "value": "100 Hz"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aanbevolen kijkafstand",
+        "value": "3,5 meter"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Schermtype",
+        "value": "OLED"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Samsung QLED",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Art Mode",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "One Connect Box",
+        "value": "Nee"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Local dimming",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Digitaal optische aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Composite aansluiting",
+        "value": "Ja"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Kijkhoek kwaliteit",
+        "value": "Uitstekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Energieklasse",
+        "value": "F"
+      }
+    ]
+  }
+]
